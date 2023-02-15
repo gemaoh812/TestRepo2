@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Second commit");
         printThirdCommit();
 
+        System.out.println("Commit from Branch 1");
     }
 
     public static void printThirdCommit(){
