@@ -6,6 +6,7 @@ public class Main {
         printThirdCommit();
 
         System.out.println("Commit from Branch 1");
+        System.out.println("PR test");
     }
 
     public static void printThirdCommit(){
